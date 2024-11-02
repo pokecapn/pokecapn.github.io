@@ -2,57 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
-		<loc>https://pokecapn.github.io/eleventy-base-blog/blog/2017-kpop/</loc>
+		<loc>https://pokecapn.github.io/blog/2017-kpop/</loc>
 		<lastmod>2017-12-30</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://pokecapn.github.io/eleventy-base-blog/blog/2018-kpop/</loc>
+		<loc>https://pokecapn.github.io/blog/2018-kpop/</loc>
 		<lastmod>2018-12-31</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://pokecapn.github.io/eleventy-base-blog/blog/2019-kpop/</loc>
+		<loc>https://pokecapn.github.io/blog/2019-kpop/</loc>
 		<lastmod>2019-12-31</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://pokecapn.github.io/eleventy-base-blog/blog/2020-kpop/</loc>
+		<loc>https://pokecapn.github.io/blog/2020-kpop/</loc>
 		<lastmod>2020-12-30</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://pokecapn.github.io/eleventy-base-blog/blog/2021-kpop/</loc>
+		<loc>https://pokecapn.github.io/blog/2021-kpop/</loc>
 		<lastmod>2022-07-23</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://pokecapn.github.io/eleventy-base-blog/blog/2022-kpop/</loc>
+		<loc>https://pokecapn.github.io/blog/2022-kpop/</loc>
 		<lastmod>2023-11-29</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://pokecapn.github.io/eleventy-base-blog/about/</loc>
+		<loc>https://pokecapn.github.io/about/</loc>
 		<lastmod>2024-11-02</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://pokecapn.github.io/eleventy-base-blog/blog/</loc>
+		<loc>https://pokecapn.github.io/blog/</loc>
 		<lastmod>2024-11-02</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://pokecapn.github.io/eleventy-base-blog/</loc>
+		<loc>https://pokecapn.github.io/</loc>
 		<lastmod>2024-11-02</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://pokecapn.github.io/eleventy-base-blog/tags/</loc>
+		<loc>https://pokecapn.github.io/tags/</loc>
 		<lastmod>2024-11-02</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://pokecapn.github.io/eleventy-base-blog/feed/feed.xml</loc>
+		<loc>https://pokecapn.github.io/feed/feed.xml</loc>
 		<lastmod>2024-11-02</lastmod>
 	</url>
 </urlset>
