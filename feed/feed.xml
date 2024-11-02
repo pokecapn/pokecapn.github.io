@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="pretty-atom-feed.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>Posting Hole</title>
+  <subtitle>welcome to my humble site</subtitle>
+  <link href="https://pokecapn.github.io/eleventy-base-blog/feed/feed.xml" rel="self" />
+  <link href="https://pokecapn.github.io/eleventy-base-blog/" />
+  <updated>2023-11-29T00:00:00Z</updated>
+  <id>https://pokecapn.github.io/eleventy-base-blog/</id>
+  <author>
+    <name>pokecapn</name>
+  </author>
+  <entry>
+    <title>pokecapn&#39;s top 30+ kpop of 2022</title>
+    <link href="https://pokecapn.github.io/eleventy-base-blog/blog/2022-kpop/" />
+    <updated>2023-11-29T00:00:00Z</updated>
+    <id>https://pokecapn.github.io/eleventy-base-blog/blog/2022-kpop/</id>
+    <content type="html">&lt;p&gt;&lt;strong&gt;(the rules)&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;i listened to over 1500 songs, to bring you&lt;/li&gt;
+&lt;li&gt;30 that Kick Ass per my exacting standards for this list, &amp;quot;awards&amp;quot; for 10 more songs that weren&#39;t making the cut, and another 125 i found good or at least entertaining in a bonus playlist&lt;/li&gt;
+&lt;li&gt;no year end lists tinted these judgments. all opinions are my own. probably&lt;/li&gt;
+&lt;li&gt;original air date: November 29, 2023&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;previous years&lt;/strong&gt;:
+&lt;a href=&quot;https://pokecapn.github.io/eleventy-base-blog/blog/2017-kpop/&quot;&gt;2017&lt;/a&gt; |
+&lt;a href=&quot;https://pokecapn.github.io/eleventy-base-blog/blog/2018-kpop/&quot;&gt;2018&lt;/a&gt; |
+&lt;a href=&quot;https://pokecapn.github.io/eleventy-base-blog/blog/2019-kpop/&quot;&gt;2019&lt;/a&gt; |
+&lt;a href=&quot;https://pokecapn.github.io/eleventy-base-blog/blog/2020-kpop/&quot;&gt;2020&lt;/a&gt; |
+&lt;a href=&quot;https://pokecapn.github.io/eleventy-base-blog/blog/2021-kpop/&quot;&gt;2021&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;awards&quot;&gt;awards&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;The Best Cover(?) Award&lt;/strong&gt;: Funtwo, Jane, AZ - aespa - Next Level (Guitar Cover)&lt;/p&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css&quot;&gt;
+&lt;script defer=&quot;defer&quot; src=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js&quot;&gt;&lt;/script&gt;
+&lt;style&gt;.eleventy-plugin-youtube-embed lite-youtube {max-width:100%}&lt;/style&gt;
+&lt;div id=&quot;BkTribkZBBs&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;BkTribkZBBs&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/BkTribkZBBs/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;The Literally Just &lt;em&gt;&amp;quot;Take On Me&amp;quot;&lt;/em&gt; Award&lt;/strong&gt;: Pentagon - Sparkling Night&lt;/p&gt;
+&lt;div id=&quot;PXxStjiPr4s&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;PXxStjiPr4s&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/PXxStjiPr4s/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;The Pryda Snare Award - Coin Star&lt;/strong&gt;: Psy - Everyday&lt;/p&gt;
+&lt;div id=&quot;T2BUvCcqk8I&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;T2BUvCcqk8I&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/T2BUvCcqk8I/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;The Pryda Snare Award - Minigame Star&lt;/strong&gt;: Seulgi - Los Angeles&lt;/p&gt;
+&lt;div id=&quot;h1lH4LjCXxc&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;h1lH4LjCXxc&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/h1lH4LjCXxc/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;The Pryda Snare Award - Happening Star&lt;/strong&gt;: Lapillus - Queendom&lt;/p&gt;
+&lt;div id=&quot;eCfvuC9Tvp0&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;eCfvuC9Tvp0&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/eCfvuC9Tvp0/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;The &amp;quot;We Have A Taemin Track At Home&amp;quot; Award&lt;/strong&gt;: KOM - Adrenaline&lt;/p&gt;
+&lt;div id=&quot;O9uDYx0Hj5U&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;O9uDYx0Hj5U&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/O9uDYx0Hj5U/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;The &amp;quot;No Really, The Song Is Good Too, Honest!&amp;quot; Award&lt;/strong&gt;: &lt;em&gt;(tie)&lt;/em&gt; Kara - When I Move, Apink Bomi &amp;amp; Hayoung - Red Carpet&lt;/p&gt;
+&lt;div id=&quot;XwcK-twSXB4&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;XwcK-twSXB4&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/XwcK-twSXB4/hqdefault.jpg&#39;);&quot; params=&quot;start=4&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;div id=&quot;_tXm-iWO00E&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;_tXm-iWO00E&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/_tXm-iWO00E/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;The This Sucks But I Keep Thinking About It Award&lt;/strong&gt;: Ryeohwa feat. Mistakim - Cowboy&lt;/p&gt;
+&lt;div id=&quot;VuSVc9q-4sI&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;VuSVc9q-4sI&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/VuSVc9q-4sI/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;The Most Likely To Have Been Rejected From A &lt;em&gt;Mission: Impossible&lt;/em&gt; Soundtrack Award:&lt;/strong&gt; Itzy - Voltage&lt;/p&gt;
+&lt;div id=&quot;krzf1hkFAZA&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;krzf1hkFAZA&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/krzf1hkFAZA/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;the-list&quot;&gt;the list&lt;/h3&gt;
+&lt;h2 id=&quot;30-newjeans-hype-boy&quot;&gt;30) NewJeans - Hype Boy&lt;/h2&gt;
+&lt;div id=&quot;11cta61wi0g&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;11cta61wi0g&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/11cta61wi0g/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;no one singing this song has installed Windows XP before, but that didn&#39;t stop them from cranking all the numbers up and trying anyway&lt;/p&gt;
+&lt;h2 id=&quot;29-chungha-sparkling&quot;&gt;29) Chungha - Sparkling&lt;/h2&gt;
+&lt;div id=&quot;BWORv789klk&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;BWORv789klk&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/BWORv789klk/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;a smooth and refreshing twist on the 160ish bpm synthpop formula that we&#39;ve seen for the past couple of years. literally refreshing! cans open! in the song!&lt;/p&gt;
+&lt;h2 id=&quot;28-pixy-villain&quot;&gt;28) Pixy - Villain&lt;/h2&gt;
+&lt;div id=&quot;GLO2nLbMOhI&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;GLO2nLbMOhI&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/GLO2nLbMOhI/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;very cool and nasty. am i the only one blacking out and seeing rapid-fire pictures of cats during the choruses? just me? i should get that looked at.&lt;/p&gt;
+&lt;h2 id=&quot;27-red-velvet-snap-snap&quot;&gt;27) Red Velvet - Snap Snap&lt;/h2&gt;
+&lt;div id=&quot;fn5sL5x0ZmM&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;fn5sL5x0ZmM&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/fn5sL5x0ZmM/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;i think it&#39;s aiming for a naughty 2.0, a great house thumper that SM has regularly been able to give its artists&lt;/p&gt;
+&lt;h2 id=&quot;26-billlie-gingamingayo-the-strange-world&quot;&gt;26) Billlie - GingaMingaYo (the strange world)&lt;/h2&gt;
+&lt;div id=&quot;nmVVvJufTKE&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;nmVVvJufTKE&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/nmVVvJufTKE/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;by all means i should just bounce right off the singsongy nursery rhyme chorus, but the fatness of the track and chewiness of the synths keeps me coming back&lt;/p&gt;
+&lt;h2 id=&quot;25-oh-my-girl-replay&quot;&gt;25) Oh My Girl - Replay&lt;/h2&gt;
+&lt;div id=&quot;N_xd9iIPvRE&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;N_xd9iIPvRE&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/N_xd9iIPvRE/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;vicious destruction coming out of nowhere. 2 and a half very short minutes of dank filth&lt;/p&gt;
+&lt;h2 id=&quot;24-wonho-eye-on-you&quot;&gt;24) Wonho - Eye On You&lt;/h2&gt;
+&lt;div id=&quot;mFMnsRx6nhk&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;mFMnsRx6nhk&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/mFMnsRx6nhk/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;a no bullshit track that cruises along, with great pauses to build up and release tension, and delightful synths that crank up during the chorus. energizer&lt;/p&gt;
+&lt;h2 id=&quot;23-stayc-poppy&quot;&gt;23) STAYC - Poppy&lt;/h2&gt;
+&lt;div id=&quot;z9Ig9Wmhab8&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;z9Ig9Wmhab8&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/z9Ig9Wmhab8/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;i could have held this until the 2023 list since it did get a korean version but i though-POPPY POPPY POPOPPY POPPY POPPY LOVE LOVE POPPY POPPY POPOPPY POPPY POPPY LOVE LOVE POPPY POPPY POPOPPY POPPY POPPY LOVE LOVE POPPY POPPY POPOPPY PO&lt;/p&gt;
+&lt;h2 id=&quot;22-drippin-the-one&quot;&gt;22) Drippin - The One&lt;/h2&gt;
+&lt;div id=&quot;XjkTVx9V5dE&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;XjkTVx9V5dE&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/XjkTVx9V5dE/hqdefault.jpg&#39;);&quot; params=&quot;start=6&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;this year&#39;s production team that shows up multiple times in the list is the tag team of TAK &amp;amp; Corbin at NEWTYPE, starting with this fantastic drum &amp;amp; bass pop-rock hybrid. a great way to start your day&lt;/p&gt;
+&lt;h2 id=&quot;21-purple-kiss-pretty-psycho&quot;&gt;21) Purple Kiss - Pretty Psycho&lt;/h2&gt;
+&lt;div id=&quot;JigypXs3hls&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;JigypXs3hls&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/JigypXs3hls/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;the philosophy for purple kiss house tracks seems to be to load up a solid foundation with random shit and it works great. beethoven, classic movie samples, and speed garage wobble, together at last&lt;/p&gt;
+&lt;h2 id=&quot;20-nature-limbo&quot;&gt;20) Nature - Limbo&lt;/h2&gt;
+&lt;div id=&quot;UK7yzgVpnDA&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;UK7yzgVpnDA&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/UK7yzgVpnDA/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;if more songs could detour into 10 seconds of psytrance for no reason that&#39;d be swell, thanks&lt;/p&gt;
+&lt;h2 id=&quot;19-woo-ah-rollercoaster&quot;&gt;19) woo!ah! - Rollercoaster&lt;/h2&gt;
+&lt;div id=&quot;liWc3Cw73Go&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;liWc3Cw73Go&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/liWc3Cw73Go/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;it&#39;s finally time to slow down and enjoy a synthwave dreamscape. CRJ energy will be channeled several times on this trip up the list&lt;/p&gt;
+&lt;h2 id=&quot;18-fromis-9-rewind&quot;&gt;18) fromis_9 - Rewind&lt;/h2&gt;
+&lt;div id=&quot;pujG9jmL9QY&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;pujG9jmL9QY&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/pujG9jmL9QY/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;while we mourn the death of any wild ass concepts ever gracing fromis_9 again, we can still appreciate solid heavily replayable b sides like this&lt;/p&gt;
+&lt;h2 id=&quot;17-limelight-starlight&quot;&gt;17) Limelight - Starlight&lt;/h2&gt;
+&lt;div id=&quot;56R-ZPP7Us4&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;56R-ZPP7Us4&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/56R-ZPP7Us4/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;slots right into the izone gap you didn&#39;t know you had. that one meme but the guy&#39;s going &amp;quot;it my fiesta fr!!!!&amp;quot;&lt;/p&gt;
+&lt;h2 id=&quot;16-key-bound&quot;&gt;16) Key - Bound&lt;/h2&gt;
+&lt;div id=&quot;0QPxNwXTUvo&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;0QPxNwXTUvo&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/0QPxNwXTUvo/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;yo man what you got there, sega genesis???? the fm synth bass is off the charts&lt;/p&gt;
+&lt;h2 id=&quot;15-yena-pretty-boys&quot;&gt;15) Yena - Pretty Boys&lt;/h2&gt;
+&lt;div id=&quot;tuTCA5qya8o&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;tuTCA5qya8o&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/tuTCA5qya8o/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;picture-perfect 80&#39;s throwback. way too good to be trapped on an EP with no promotion&lt;/p&gt;
+&lt;h2 id=&quot;14-nayeon-pop&quot;&gt;14) Nayeon - Pop!&lt;/h2&gt;
+&lt;div id=&quot;f6YDKF0LVWw&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;f6YDKF0LVWw&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/f6YDKF0LVWw/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;fast-paced bass, brass, and heys. hold on a second. now just what exactly are we popping here.&lt;/p&gt;
+&lt;h2 id=&quot;13-ateez-halazia&quot;&gt;13) ATEEZ - Halazia&lt;/h2&gt;
+&lt;div id=&quot;SszP3hlQ55Y&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;SszP3hlQ55Y&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/SszP3hlQ55Y/hqdefault.jpg&#39;);&quot; params=&quot;start=22&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;this one&#39;s a real ride between insanely high and deep vocals, going off the rails into drum and bass and hardstyle at the end. waiting for the day that &amp;quot;off the rails&amp;quot; becomes &amp;quot;the rails&amp;quot;. that&#39;ll be something&lt;/p&gt;
+&lt;h2 id=&quot;12-le-sserafim-blue-flame&quot;&gt;12) Le Sserafim - Blue Flame&lt;/h2&gt;
+&lt;div id=&quot;Vyo2m2CbdUs&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;Vyo2m2CbdUs&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/Vyo2m2CbdUs/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;it&#39;s simple, it&#39;s catchy, and the star of the show is the megabass 2000 watt rms in the prechorus&lt;/p&gt;
+&lt;h2 id=&quot;11-viviz-bop-bop&quot;&gt;11) Viviz - Bop Bop!&lt;/h2&gt;
+&lt;div id=&quot;cM963tI7Q_k&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;cM963tI7Q_k&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/cM963tI7Q_k/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;ezaels ocsid nimmals&lt;/p&gt;
+&lt;h2 id=&quot;10-limelight-eye-to-eye&quot;&gt;10) Limelight - Eye To Eye&lt;/h2&gt;
+&lt;div id=&quot;k8LXeI5S8Cs&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;k8LXeI5S8Cs&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/k8LXeI5S8Cs/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;strap in for another dreamscape. the vocals have more room to work than the other limelight track and you can just lie down and let the waves roll in&lt;/p&gt;
+&lt;h2 id=&quot;9-ive-love-dive&quot;&gt;9) Ive - Love Dive&lt;/h2&gt;
+&lt;div id=&quot;Y8JFxS1HlDo&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;Y8JFxS1HlDo&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/Y8JFxS1HlDo/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;doomsday plodding processed out the goat ass. this is a compliment. i&#39;m convinced they&#39;re going for an another brick in the wall vibe&lt;/p&gt;
+&lt;h2 id=&quot;8-kep1er-mvsk&quot;&gt;8) Kep1er - MVSK&lt;/h2&gt;
+&lt;div id=&quot;s28WZnoVhnI&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;s28WZnoVhnI&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/s28WZnoVhnI/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;a relentless assault where the only constant is change. many angry basses, unintelligible synth brass, anti-drops becoming real drops, and a trip into triplet time just for fun&lt;/p&gt;
+&lt;h2 id=&quot;7-kwon-eunbi-croquis&quot;&gt;7) Kwon Eunbi - Croquis&lt;/h2&gt;
+&lt;div id=&quot;1wPz1XSvgPo&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;1wPz1XSvgPo&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/1wPz1XSvgPo/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;pounding productivity-enhancing house. i can and have put this on repeat for an hour. 2:17 is a great advancement in &amp;quot;vocals as instrument&amp;quot;&lt;/p&gt;
+&lt;h2 id=&quot;6-rocket-punch-louder&quot;&gt;6) Rocket Punch - Louder&lt;/h2&gt;
+&lt;div id=&quot;HZ2H73drq6I&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;HZ2H73drq6I&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/HZ2H73drq6I/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;this song fucks. no further explanation needed, just listen to it&lt;/p&gt;
+&lt;h2 id=&quot;5-taeyeon-invu&quot;&gt;5) Taeyeon - INVU&lt;/h2&gt;
+&lt;div id=&quot;AbZH7XWDW_k&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;AbZH7XWDW_k&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/AbZH7XWDW_k/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;effortless emotional dreamworld. mirror-polished. you get the feeling no one was allowed to mess this one up&lt;/p&gt;
+&lt;h2 id=&quot;4-csr-pop-pop&quot;&gt;4) CSR - Pop? Pop!&lt;/h2&gt;
+&lt;div id=&quot;Z2_UuNrfZJs&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;Z2_UuNrfZJs&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/Z2_UuNrfZJs/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;pure sugar fresh air with a truckload of cool rhythms and sounds. the part before the third chorus is like a boast from the production team: &amp;quot;we could have made this absolute dogshit, but we are masters of the craft in full control&amp;quot;&lt;/p&gt;
+&lt;h2 id=&quot;3-wjsn-chocome-super-yuppers&quot;&gt;3) WJSN Chocome - Super Yuppers!&lt;/h2&gt;
+&lt;div id=&quot;oxfj1jCfF9E&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;oxfj1jCfF9E&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/oxfj1jCfF9E/hqdefault.jpg&#39;);&quot; params=&quot;start=4&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;the song: the 80s are here, again.
+&lt;span style=&quot;display:block&quot;&gt;me:&lt;/span&gt; &lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://pokecapn.github.io/eleventy-base-blog/blog/2022-kpop/AZEFTqX-gC-608.webp&quot; alt=&quot;jojo yes yes yes&quot; width=&quot;608&quot; height=&quot;342&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;2-cherry-bullet-love-in-space&quot;&gt;2) Cherry Bullet - Love In Space&lt;/h2&gt;
+&lt;div id=&quot;85HOPAnY49U&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;85HOPAnY49U&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/85HOPAnY49U/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;what&#39;s 156 bpm, is dominated by offbeat bass stabs, and features 16th note melodies? that&#39;s right, they&#39;ve finally discovered the secret formula to poppify eurobeat&lt;/p&gt;
+&lt;h2 id=&quot;1-kwon-eunbi-glitch&quot;&gt;1) Kwon Eunbi - Glitch&lt;/h2&gt;
+&lt;div id=&quot;enSvdtEutuw&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;enSvdtEutuw&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/enSvdtEutuw/hqdefault.jpg&#39;);&quot; params=&quot;start=3&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;a journey into sound. discover silken vocals weaving through garage with massive build ups into chunky four on the floor, replete with the titular glitching. then get blasted by the finish. lost in chimes, you conclude: &amp;quot;damn&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank You For Playing&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;bonus-playlist&quot;&gt;BONUS PLAYLIST&lt;/h3&gt;
+&lt;p&gt;here is a playlist with a total of &lt;a href=&quot;https://www.youtube.com/playlist?list=PLPZd8MPtv0viXAgwXJiGu-TTwKN9ZwX4s&quot;&gt;165 songs from 2022&lt;/a&gt;. why 165? because i got tired of cutting songs from the list&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>pokecapn&#39;s top 30+ kpop of 2021</title>
+    <link href="https://pokecapn.github.io/eleventy-base-blog/blog/2021-kpop/" />
+    <updated>2022-07-23T00:00:00Z</updated>
+    <id>https://pokecapn.github.io/eleventy-base-blog/blog/2021-kpop/</id>
+    <content type="html">&lt;p&gt;&lt;strong&gt;(the rules)&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;all tracks are fair game, i listened to.. a lot&lt;/li&gt;
+&lt;li&gt;i like my kpop like my GoldenEye 64—Slappers Only&lt;/li&gt;
+&lt;li&gt;&amp;quot;unbiased&amp;quot;. i somehow avoided seeing any year end lists&lt;/li&gt;
+&lt;li&gt;there&#39;s a bonus at the end!&lt;/li&gt;
+&lt;li&gt;actually it&#39;s Remote Mines&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;previous years&lt;/strong&gt;:
+&lt;a href=&quot;https://pokecapn.github.io/eleventy-base-blog/blog/2017-kpop/&quot;&gt;2017&lt;/a&gt; |
+&lt;a href=&quot;https://pokecapn.github.io/eleventy-base-blog/blog/2018-kpop/&quot;&gt;2018&lt;/a&gt; |
+&lt;a href=&quot;https://pokecapn.github.io/eleventy-base-blog/blog/2019-kpop/&quot;&gt;2019&lt;/a&gt; |
+&lt;a href=&quot;https://pokecapn.github.io/eleventy-base-blog/blog/2020-kpop/&quot;&gt;2020&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;2023 edit&lt;/em&gt;: I have tried to preserve as much of the original tweet thread as possible. Dead links have been fixed, formatting tweaked to work with &lt;s&gt;cohost&lt;/s&gt; the blogosphere, but otherwise the order and descriptions are straight from July 23 2022, whatever that entails.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;awards&quot;&gt;awards&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;The This Should Have Been In 2020&#39;s List And Probably Like Number One Or Two Award&lt;/strong&gt;: IZ*ONE - Daydream&lt;/p&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css&quot;&gt;
+&lt;script defer=&quot;defer&quot; src=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js&quot;&gt;&lt;/script&gt;
+&lt;style&gt;.eleventy-plugin-youtube-embed lite-youtube {max-width:100%}&lt;/style&gt;
+&lt;div id=&quot;J1hacUHwFXw&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;J1hacUHwFXw&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/J1hacUHwFXw/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;The Pryda Snare Award&lt;/strong&gt;: Skyle - Fly Up High&lt;/p&gt;
+&lt;div id=&quot;i3ySAgEMn3w&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;i3ySAgEMn3w&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/i3ySAgEMn3w/hqdefault.jpg&#39;);&quot; params=&quot;start=10&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;The Literally Just &lt;em&gt;&amp;quot;Take On Me&amp;quot;&lt;/em&gt; Award&lt;/strong&gt;: Rocket Punch - Ring Ring&lt;/p&gt;
+&lt;div id=&quot;j_zTkqonU8Q&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;j_zTkqonU8Q&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/j_zTkqonU8Q/hqdefault.jpg&#39;);&quot; params=&quot;start=5&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Best Intro Track Award&lt;/strong&gt;: Chungha - Side C (Unknown)&lt;/p&gt;
+&lt;div id=&quot;glUgYnIOms4&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;glUgYnIOms4&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/glUgYnIOms4/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Most Improved By Replacing The Entire Song Award&lt;/strong&gt;: Shinee - Don&#39;t Call Me (Fox Stevenson Remix)&lt;/p&gt;
+&lt;div id=&quot;cZYfyjT0Bso&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;cZYfyjT0Bso&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/cZYfyjT0Bso/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;The &amp;quot;I don&#39;t get it, is that good&amp;quot; Award&lt;/strong&gt;: &lt;em&gt;(tie)&lt;/em&gt; Billlie - Ring x Ring, Purple Kiss - Ponzona&lt;/p&gt;
+&lt;div id=&quot;J_TdXeTdf5E&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;J_TdXeTdf5E&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/J_TdXeTdf5E/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;div id=&quot;8Lyf6PipuIg&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;8Lyf6PipuIg&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/8Lyf6PipuIg/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;the-list&quot;&gt;the list&lt;/h3&gt;
+&lt;h2 id=&quot;30-pinkfantasy-poison&quot;&gt;30) PinkFantasy - Poison&lt;/h2&gt;
+&lt;div id=&quot;coi_sTr8vhI&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;coi_sTr8vhI&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/coi_sTr8vhI/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;Dreamcatcher&#39;s Piri gets more of a J-feel to it and picks up a guitar solo and some cool eurotrance synths in the chorus&lt;/p&gt;
+&lt;h2 id=&quot;29-bebe-yana-strawberry-kisses&quot;&gt;29) Bébe Yana - Strawberry Kisses&lt;/h2&gt;
+&lt;div id=&quot;JD3dE3IlsoQ&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;JD3dE3IlsoQ&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/JD3dE3IlsoQ/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;it&#39;s pronounced &amp;quot;garridge&amp;quot;&lt;/p&gt;
+&lt;h2 id=&quot;28-everglow-pirate&quot;&gt;28) Everglow - Pirate&lt;/h2&gt;
+&lt;div id=&quot;-2X-pL06628&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;-2X-pL06628&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/-2X-pL06628/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;we got us a map, to lead us to a big room track, that&#39;s choreoed for tiktok, and buried deep away. we&#39;ll dig up the track, we know it&#39;s full of precious brass stabs. tik open the toks, and then we&#39;ll say &amp;quot;now let me introduce myself&lt;/p&gt;
+&lt;h2 id=&quot;27-red-velvet-pose&quot;&gt;27) Red Velvet - Pose&lt;/h2&gt;
+&lt;div id=&quot;rDWM8ZCXic4&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;rDWM8ZCXic4&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/rDWM8ZCXic4/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;i don&#39;t even remember what the title track on this album was, because it so obviously should have been Pose. the synths in the verses unnerve you just enough to release all that tension during the chorus&lt;/p&gt;
+&lt;h2 id=&quot;26-do-han-se-take-over&quot;&gt;26) Do Han Se - Take Over&lt;/h2&gt;
+&lt;div id=&quot;a63OBYlgh1w&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;a63OBYlgh1w&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/a63OBYlgh1w/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;sure, it&#39;s filthy, but absolutely nothing will prepare you for what happens at 2:44 in the video no matter how many times you watch it&lt;/p&gt;
+&lt;h2 id=&quot;25-hot-issue-gratata&quot;&gt;25) Hot Issue - Gratata&lt;/h2&gt;
+&lt;div id=&quot;wt-jP2l2v4A&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;wt-jP2l2v4A&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/wt-jP2l2v4A/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;this song tries so hard it triggers quality underflow and wraps around to kicking ass. it&#39;s got like 40 or 50 heys. sometimes i wonder if all famous snipers know how to bang-ah bang-ah bang-ah. please let me have this&lt;/p&gt;
+&lt;h2 id=&quot;24-everglow-nighty-night&quot;&gt;24) Everglow - Nighty Night&lt;/h2&gt;
+&lt;div id=&quot;ybjFaFUJWo8&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;ybjFaFUJWo8&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/ybjFaFUJWo8/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;one day, hoovers will grace kpop more frequently than once every 2 or 3 years, and i will finally be able to have this list write itself&lt;/p&gt;
+&lt;h2 id=&quot;23-aespa-next-level&quot;&gt;23) aespa - Next Level&lt;/h2&gt;
+&lt;div id=&quot;9xBSLI7EsTg&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;9xBSLI7EsTg&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/9xBSLI7EsTg/hqdefault.jpg&#39;);&quot; params=&quot;start=3&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;SM has a history of buying existing tracks and making them more memorable than the originals. i kinda hope aespa&#39;s concept never changes and the heartfelt ballad sections of their concerts are total fucking nonsense about nft snakes&lt;/p&gt;
+&lt;h2 id=&quot;22-shinee-atlantis&quot;&gt;22) SHINee - Atlantis&lt;/h2&gt;
+&lt;div id=&quot;PSYRbJjIT6U&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;PSYRbJjIT6U&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/PSYRbJjIT6U/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;it&#39;s by-the-numbers kpop, but the chorus synth goes hard as shit&lt;/p&gt;
+&lt;h2 id=&quot;21-dreamcatcher-whistle&quot;&gt;21) Dreamcatcher - Whistle&lt;/h2&gt;
+&lt;div id=&quot;Mhn-vzU1Hd4&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;Mhn-vzU1Hd4&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/Mhn-vzU1Hd4/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;gonna tell my kids this was blackpink&#39;s lovesick girls&lt;/p&gt;
+&lt;h2 id=&quot;20-n-o-m-mega-punch&quot;&gt;20) N.O.M - Mega Punch&lt;/h2&gt;
+&lt;div id=&quot;XLS04kF5oL4&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;XLS04kF5oL4&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/XLS04kF5oL4/hqdefault.jpg&#39;);&quot; params=&quot;start=20&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;there is nothing wrong with helping a buddy out&lt;/p&gt;
+&lt;h2 id=&quot;19-lightsum-you-jam&quot;&gt;19) Lightsum - You, jam&lt;/h2&gt;
+&lt;div id=&quot;_GtURA2Ewyw&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;_GtURA2Ewyw&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/_GtURA2Ewyw/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;smashing like 3 decades together and hoping it all works out. when more songs &amp;quot;sample&amp;quot; cybotron, i will finally be able to have this list write itself. there is some monster sub-bass that kicks in from 2:25-2:35&lt;/p&gt;
+&lt;h2 id=&quot;18-brave-girls-feat-e-chan-pool-party&quot;&gt;18) Brave Girls feat. E-Chan - Pool Party&lt;/h2&gt;
+&lt;div id=&quot;67c2dAcOyb4&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;67c2dAcOyb4&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/67c2dAcOyb4/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;one cool thing about 2021&#39;s kpop output is that i could have kept this whole list firmly planted in the 80s and it wouldn&#39;t even have been wrong&lt;/p&gt;
+&lt;h2 id=&quot;17-ha-tfelt-feat-keem-hyoeun-summertime&quot;&gt;17) Ha:tfelt feat. Keem Hyoeun - Summertime&lt;/h2&gt;
+&lt;div id=&quot;cjvahN-qo4k&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;cjvahN-qo4k&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/cjvahN-qo4k/hqdefault.jpg&#39;);&quot; params=&quot;start=9&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;heavy ethereal plodding&lt;/p&gt;
+&lt;h2 id=&quot;16-akmu-with-iu-nakka&quot;&gt;16) AKMU with IU - Nakka&lt;/h2&gt;
+&lt;div id=&quot;EtiPbWzUY9o&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;EtiPbWzUY9o&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/EtiPbWzUY9o/hqdefault.jpg&#39;);&quot; params=&quot;start=4&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;heavier ethereal plodding. death disco&lt;/p&gt;
+&lt;h2 id=&quot;15-tomorrow-x-together-no-rules&quot;&gt;15) Tomorrow X Together - No Rules&lt;/h2&gt;
+&lt;div id=&quot;9cyPQQsGkb0&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;9cyPQQsGkb0&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/9cyPQQsGkb0/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;a great feature of the microblog is that i can say this song&#39;s the freaky lovechild of uptown funk and boom boom dollar and my followers will reply with &amp;quot;what&#39;s uptown funk?&amp;quot; not much man what&#39;s uptown funk with you&lt;/p&gt;
+&lt;h2 id=&quot;14-yukika-secret&quot;&gt;14) Yukika - Secret&lt;/h2&gt;
+&lt;div id=&quot;T_IxLjsHiZI&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;T_IxLjsHiZI&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/T_IxLjsHiZI/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;that little tinkly synth lets you know exactly what you&#39;re getting into. it turns out the composer for this track, dr. jo, also wrote my 2017 no.1, gugudan&#39;s a girl like me. i&#39;m sure this won&#39;t come up later&lt;/p&gt;
+&lt;h2 id=&quot;13-mondo-grosso-feat-boa-everything-needs-love-re-new-jp&quot;&gt;13) Mondo Grosso feat. BoA - Everything Needs Love (Re-New JP)&lt;/h2&gt;
+&lt;div id=&quot;d69btWfh_3o&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;d69btWfh_3o&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/d69btWfh_3o/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;before you complain about how this doesn&#39;t count or whatever, did you hear that &lt;span style=&quot;display:inline-block&quot;&gt;ｂａｓｓｌｉｎｅ？？？？&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;12-cherry-bullet-keep-your-head-up&quot;&gt;12) Cherry Bullet - Keep Your Head Up&lt;/h2&gt;
+&lt;div id=&quot;h7aH4GYh2xA&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;h7aH4GYh2xA&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/h7aH4GYh2xA/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;i described this song as &amp;quot;buck wild&amp;quot; when i first heard it and i stand by that. putting a bangin donk on a car crash with the orinoco flow&lt;/p&gt;
+&lt;h2 id=&quot;11-chancellor-feat-gaeko-midnight&quot;&gt;11) Chancellor feat. Gaeko - Midnight&lt;/h2&gt;
+&lt;div id=&quot;AAxBjzUPkMw&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;AAxBjzUPkMw&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/AAxBjzUPkMw/hqdefault.jpg&#39;);&quot; params=&quot;start=2&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;looks at notes&lt;/em&gt; this just says &amp;quot;out-chromeo&amp;quot; and there&#39;s a circle around it&lt;/p&gt;
+&lt;h2 id=&quot;10-mirae-killa&quot;&gt;10) Mirae - Killa&lt;/h2&gt;
+&lt;div id=&quot;EAlB4DUXeY8&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;EAlB4DUXeY8&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/EAlB4DUXeY8/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;it&#39;s all killa no filla lol lmao! but seriously this track tears shit up&lt;/p&gt;
+&lt;h2 id=&quot;9-purple-kiss-zombie&quot;&gt;9) Purple Kiss - Zombie&lt;/h2&gt;
+&lt;div id=&quot;q3_kFopzlJw&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;q3_kFopzlJw&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/q3_kFopzlJw/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;kpop proves once again that you can just repeat the same syllable over and over as a hook, and somehow it works flawlessly&lt;/p&gt;
+&lt;h2 id=&quot;8-yuqi-bonnie-and-clyde&quot;&gt;8) Yuqi - Bonnie &amp;amp; Clyde&lt;/h2&gt;
+&lt;div id=&quot;0bE2wf-1Ogc&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;0bE2wf-1Ogc&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/0bE2wf-1Ogc/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;is it kpop if a chinese woman is singing in english over a track made by a bunch of swedes? yes, absolutely, and it whips&lt;/p&gt;
+&lt;h2 id=&quot;7-oh-my-girl-dun-dun-dance&quot;&gt;7) Oh My Girl - Dun Dun Dance&lt;/h2&gt;
+&lt;div id=&quot;HzOjwL7IP_o&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;HzOjwL7IP_o&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/HzOjwL7IP_o/hqdefault.jpg&#39;);&quot; params=&quot;start=25&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;Check out Oh My Girl&#39;s new single &amp;quot;Dun Dun Dance&amp;quot; if you get the chance. Sound of the summer.&lt;/p&gt;
+&lt;h2 id=&quot;6-iu-lilac&quot;&gt;6) IU - Lilac&lt;/h2&gt;
+&lt;div id=&quot;v7bnOxV4jAc&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;v7bnOxV4jAc&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/v7bnOxV4jAc/hqdefault.jpg&#39;);&quot; params=&quot;start=12&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;it came up later, here&#39;s another song written by dr. jo, and just that much better. let the synths wash over you and enjoy the ride&lt;/p&gt;
+&lt;h2 id=&quot;5-lightsum-vanilla&quot;&gt;5) Lightsum - Vanilla&lt;/h2&gt;
+&lt;div id=&quot;d74cH816kFQ&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;d74cH816kFQ&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/d74cH816kFQ/hqdefault.jpg&#39;);&quot; params=&quot;start=4&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;if you were waiting for the slow burner that drills directly into your brain, this is it. i can&#39;t even walk down the ice cream aisle without thinking &amp;quot;oh my gossshhh&amp;quot;&lt;/p&gt;
+&lt;h2 id=&quot;4-dreamcatcher-because&quot;&gt;4) Dreamcatcher - Because&lt;/h2&gt;
+&lt;div id=&quot;PEKkdIT8JPM&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;PEKkdIT8JPM&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/PEKkdIT8JPM/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;when more songs are best described as &amp;quot;yandere drum and bass&amp;quot;, this list will finally be able to write itself&lt;/p&gt;
+&lt;h2 id=&quot;3-enhypen-drunk-dazed&quot;&gt;3) Enhypen - Drunk-Dazed&lt;/h2&gt;
+&lt;div id=&quot;yMNLjj09fU0&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;yMNLjj09fU0&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/yMNLjj09fU0/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;the last time song titles described what they sounded like this accurately, they were called shit like &amp;quot;afternoon waltz in g minor&amp;quot;. relentlessly pounding pounding techno music that sounds exactly like 5 am&lt;/p&gt;
+&lt;h2 id=&quot;2-rocket-punch-ride&quot;&gt;2) Rocket Punch - Ride&lt;/h2&gt;
+&lt;div id=&quot;0RlxMVGpoEk&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;0RlxMVGpoEk&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/0RlxMVGpoEk/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;synthwave polished to a mirror finish. love the crashes during the final chorus. this kept me alive through 2021. the only way you could improve this is slow it down 50 bpm, add some nu disco and italo elements, and crank up the melancholy&lt;/p&gt;
+&lt;h2 id=&quot;1-key-bad-love&quot;&gt;1) Key - Bad Love&lt;/h2&gt;
+&lt;div id=&quot;1kov89n-_sw&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;1kov89n-_sw&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/1kov89n-_sw/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;oh hey would you look at that!! key singing like he&#39;s kinda yelling or shouting every lyric actually totally sells the vibe of the track, which brings retro synths, supercharged vocals, and modern production into a delicious mix&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank You For Playing&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;bonus-playlist&quot;&gt;BONUS PLAYLIST:&lt;/h3&gt;
+&lt;p&gt;including these, here are &lt;a href=&quot;https://www.youtube.com/playlist?list=PLPZd8MPtv0vj9DDcj353u0NnWGQpyby4q&quot;&gt;100 kpops from 2021&lt;/a&gt; that either i enjoyed, had interesting ideas, or were otherwise totally ridiculous and worth a listen&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>pokecapn&#39;s top 30ish kpop of 2020</title>
+    <link href="https://pokecapn.github.io/eleventy-base-blog/blog/2020-kpop/" />
+    <updated>2020-12-30T00:00:00Z</updated>
+    <id>https://pokecapn.github.io/eleventy-base-blog/blog/2020-kpop/</id>
+    <content type="html">&lt;p&gt;&lt;strong&gt;(the rules)&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;anything goes. i listened to... maybe 1500 tracks to bring you these fine goods. over 460 &amp;quot;above the mendoza line&amp;quot;&lt;/li&gt;
+&lt;li&gt;the song must Kick Ass per my exacting standards&lt;/li&gt;
+&lt;li&gt;but first, some awards for songs that didn&#39;t make it!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;previous years&lt;/strong&gt;:
+&lt;a href=&quot;https://pokecapn.github.io/eleventy-base-blog/blog/2017-kpop/&quot;&gt;2017&lt;/a&gt; |
+&lt;a href=&quot;https://pokecapn.github.io/eleventy-base-blog/blog/2018-kpop/&quot;&gt;2018&lt;/a&gt; |
+&lt;a href=&quot;https://pokecapn.github.io/eleventy-base-blog/blog/2019-kpop/&quot;&gt;2019&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;2023 edit&lt;/em&gt;: I have tried to preserve as much of the original tweet thread as possible. Dead links have been fixed, images uploaded, formatting tweaked to work with &lt;s&gt;cohost&lt;/s&gt; the blogosphere, but otherwise the order and descriptions are straight from December 31 2020, whatever that entails.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;awards&quot;&gt;awards&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;The Most Mindblowing Chorus In A Song No One Will Remember Award&lt;/strong&gt;: Berry Good - Accio&lt;/p&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css&quot;&gt;
+&lt;script defer=&quot;defer&quot; src=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js&quot;&gt;&lt;/script&gt;
+&lt;style&gt;.eleventy-plugin-youtube-embed lite-youtube {max-width:100%}&lt;/style&gt;
+&lt;div id=&quot;rLIFeoEKjU4&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;rLIFeoEKjU4&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/rLIFeoEKjU4/hqdefault.jpg&#39;);&quot; params=&quot;start=8&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;The Pryda Snare Award&lt;/strong&gt;: ANS - Say My Name&lt;/p&gt;
+&lt;div id=&quot;-NGoD8l-fp4&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;-NGoD8l-fp4&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/-NGoD8l-fp4/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;The Literally Just &lt;em&gt;&amp;quot;Take On Me&amp;quot;&lt;/em&gt; Award&lt;/strong&gt;: Boyhood - Retro Love&lt;/p&gt;
+&lt;div id=&quot;9ZPROZMyqgA&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;9ZPROZMyqgA&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/9ZPROZMyqgA/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;The Every Single Song From This Group Misses The Mark, But In Really Interesting Ways, Also Whenever I See Their Name I Think About DJ Mehdi&#39;s Signatune Award&lt;/strong&gt;: Cignature. let&#39;s go with Arisong for illustration purposes&lt;/p&gt;
+&lt;div id=&quot;yc-kl9RpRR8&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;yc-kl9RpRR8&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/yc-kl9RpRR8/hqdefault.jpg&#39;);&quot; params=&quot;start=11&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;The &amp;quot;No Really, The Song Is Good Too, Honest!&amp;quot; Award&lt;/strong&gt;: Apink YOS - Love Is Blind&lt;/p&gt;
+&lt;div id=&quot;Gs5dtaTZNSc&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;Gs5dtaTZNSc&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/Gs5dtaTZNSc/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;The You Can&#39;t Put A 15 Minute Long Mashup With Five Movements On The List Award&lt;/strong&gt;: Red Velvet - 78 Tracks Full Mashup &amp;quot;Red Velvet Cake 2019&amp;quot;&lt;/p&gt;
+&lt;div id=&quot;fiEwujOJwAk&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;fiEwujOJwAk&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/fiEwujOJwAk/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;The Most Likely To Be In This List If You Asked Me Again A Few Months From Now Award&lt;/strong&gt;: &lt;em&gt;(tie)&lt;/em&gt; LOONA - Voice, Verivery - Lay Back, IZ*ONE - Sequence&lt;/p&gt;
+&lt;div id=&quot;ms5e6yswbCE&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;ms5e6yswbCE&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/ms5e6yswbCE/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;div id=&quot;X2RyGcufXKw&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;X2RyGcufXKw&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/X2RyGcufXKw/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;div id=&quot;hBlLaEt1VjI&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;hBlLaEt1VjI&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/hBlLaEt1VjI/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;and now, the actual list!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;the-list&quot;&gt;the list&lt;/h3&gt;
+&lt;h2 id=&quot;30-exid-b-l-e-s-s-e-d&quot;&gt;30) EXID - B.L.E.S.S.E.D&lt;/h2&gt;
+&lt;div id=&quot;2mhr0XnF3Hk&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;2mhr0XnF3Hk&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/2mhr0XnF3Hk/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;sometimes all you really need is drum and bass played completely straight&lt;/p&gt;
+&lt;h2 id=&quot;29-xum-ddalala&quot;&gt;29) XUM - DDALALA&lt;/h2&gt;
+&lt;div id=&quot;U15WkmwImS8&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;U15WkmwImS8&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/U15WkmwImS8/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;Shinsadong Tiger wakes up from over a year of hibernation and applies the formula: find a 2 year old song and take it Up to a new Level. cue the lawsuit in Five, Four, Three Two One&lt;/p&gt;
+&lt;h2 id=&quot;28-yooa-diver&quot;&gt;28) Yooa - Diver&lt;/h2&gt;
+&lt;div id=&quot;tlA5YBdxwQo&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;tlA5YBdxwQo&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/tlA5YBdxwQo/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;the funk is strong with this one. the verses are... mostly just there, but this really shines in the chorus as the vocal syncopation plays off the instruments and the beat&lt;/p&gt;
+&lt;h2 id=&quot;27-elris-this-is-me&quot;&gt;27) Elris - This Is Me&lt;/h2&gt;
+&lt;div id=&quot;_JEgnpgNWVs&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;_JEgnpgNWVs&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/_JEgnpgNWVs/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;maybe I&#39;m just really weak to drumstep interludes, but I think this track fires on all cylinders. just the right fuel mixture of fartbass, uplifting synths, and canned samples&lt;/p&gt;
+&lt;h2 id=&quot;26-wjsn-hola&quot;&gt;26) WJSN - Hola&lt;/h2&gt;
+&lt;div id=&quot;eltcoM-_eQA&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;eltcoM-_eQA&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/eltcoM-_eQA/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;This has the same composer/producer team as all of Cignature&#39;s songs, but somehow it&#39;s this B side where they manage to pull the reins in and completely nail the high pitched manic energy they&#39;ve overshot 3-4 times with Cignature&lt;/p&gt;
+&lt;h2 id=&quot;25-5-i-said-cignature-too-many-times-and-now-we-have-to-watch-signatune&quot;&gt;25.5) I said Cignature too many times and now we have to watch Signatune.&lt;/h2&gt;
+&lt;div id=&quot;bOyU_OzRXnM&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;bOyU_OzRXnM&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/bOyU_OzRXnM/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;h2 id=&quot;25-twice-cry-for-me&quot;&gt;25) Twice - Cry For Me&lt;/h2&gt;
+&lt;div id=&quot;bkQw-F1QTq4&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;bkQw-F1QTq4&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/bkQw-F1QTq4/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;in typical JYP fashion we have a song that feels instantly familiar and fresh at the same time. the verses gradually build through a genre-blender before giving way to pounding beats and breaks, overlaid with euro-style melancholy&lt;/p&gt;
+&lt;h2 id=&quot;24-bvndit-jungle&quot;&gt;24) BVNDIT - Jungle&lt;/h2&gt;
+&lt;div id=&quot;NQJgoA96fUY&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;NQJgoA96fUY&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/NQJgoA96fUY/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;this track rides and dies on that nasty ass synth in the chorus. the fact that the beat can&#39;t make up its mind is somehow a plus&lt;/p&gt;
+&lt;h2 id=&quot;23-onf-sukhumvit-swimming&quot;&gt;23) ONF - Sukhumvit Swimming&lt;/h2&gt;
+&lt;div id=&quot;pFSqmE-jy9g&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;pFSqmE-jy9g&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/pFSqmE-jy9g/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;i believe this is best described as &amp;quot;coughing up into a super soaker and shooting it in people&#39;s mouths&amp;quot;&lt;/p&gt;
+&lt;h2 id=&quot;22-lovelyz-dream-in-a-dream&quot;&gt;22) Lovelyz - Dream in a Dream&lt;/h2&gt;
+&lt;div id=&quot;_t31K3lXg2s&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;_t31K3lXg2s&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/_t31K3lXg2s/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;this has stuck with me because it&#39;s so out there. 140 BPM four on the floor with some freak ass cyber dollhouse thing going on. the high note run at the end is at the edge of mortal comprehension&lt;/p&gt;
+&lt;h2 id=&quot;21-everglow-la-di-da&quot;&gt;21) Everglow - La Di Da&lt;/h2&gt;
+&lt;div id=&quot;jeI992mvlEY&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;jeI992mvlEY&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/jeI992mvlEY/hqdefault.jpg&#39;);&quot; params=&quot;start=5&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;of all the Dua Lipa - Physical ripoffs that came out this fall, this one is bestest. it also actually fits in with Everglow&#39;s signature sound of &amp;quot;ridiculous brass stabs every goddamn measure&amp;quot; and &amp;quot;Yiren whispers at some point&amp;quot;&lt;/p&gt;
+&lt;h2 id=&quot;20-wjsn-chocome-hmph&quot;&gt;20) WJSN Chocome - Hmph!&lt;/h2&gt;
+&lt;div id=&quot;RGnLdUJbYmQ&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;RGnLdUJbYmQ&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/RGnLdUJbYmQ/hqdefault.jpg&#39;);&quot; params=&quot;start=9&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;it&#39;s so nice to see Orange Caramel are putting out songs again. wait, what do you mean i&#39;ve got the script wrong?&lt;/p&gt;
+&lt;h2 id=&quot;19-ryu-sujeong-tiger-eyes&quot;&gt;19) Ryu Sujeong - Tiger Eyes&lt;/h2&gt;
+&lt;div id=&quot;aE6curPGQRY&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;aE6curPGQRY&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/aE6curPGQRY/hqdefault.jpg&#39;);&quot; params=&quot;start=4&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;probably one of the last kind of sounds on your mind when you hear &amp;quot;lovelyz solo&amp;quot;. relentless house with the female equivalent of the &amp;quot;horny on main&amp;quot; vibe that&#39;s in Taemin&#39;s lead singles. speaking of which,&lt;/p&gt;
+&lt;h2 id=&quot;18-taemin-criminal&quot;&gt;18) Taemin - Criminal&lt;/h2&gt;
+&lt;div id=&quot;hFQL7BS6lrs&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;hFQL7BS6lrs&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/hFQL7BS6lrs/hqdefault.jpg&#39;);&quot; params=&quot;start=10&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;definitely sends the message of &amp;quot;don&#39;t mess with the maestro&amp;quot; when it comes to riding the filth snake&lt;/p&gt;
+&lt;h2 id=&quot;17-weeekly-tag-me&quot;&gt;17) Weeekly - Tag Me&lt;/h2&gt;
+&lt;div id=&quot;Moq0aOiTUOA&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;Moq0aOiTUOA&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/Moq0aOiTUOA/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;you open a bag of &amp;quot;sugar in the raw&amp;quot; and this song falls out&lt;/p&gt;
+&lt;h2 id=&quot;16-sunmi-pporappippam&quot;&gt;16) Sunmi - pporappippam&lt;/h2&gt;
+&lt;div id=&quot;Is7glC9Jp7Q&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;Is7glC9Jp7Q&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/Is7glC9Jp7Q/hqdefault.jpg&#39;);&quot; params=&quot;start=12&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;feels almost like a &amp;quot;Heroine 2.0&amp;quot;, trying to sand off what didn&#39;t work while sticking to a fusion of italo and bombastic brass&lt;/p&gt;
+&lt;h2 id=&quot;15-cherry-bullet-hands-up&quot;&gt;15) Cherry Bullet - Hands Up&lt;/h2&gt;
+&lt;div id=&quot;FFSHUWCDK8Q&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;FFSHUWCDK8Q&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/FFSHUWCDK8Q/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;this song is so dumb and uninspired it wraps all the way around into brilliance. all it&#39;s missing is the heys and gos&lt;/p&gt;
+&lt;h2 id=&quot;465-cherry-bullet-hands-up-but-with-the-heys-and-gos&quot;&gt;465) Cherry Bullet - Hands Up, but with the Heys and Gos&lt;/h2&gt;
+&lt;div id=&quot;xoSmI2e1pu4&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;xoSmI2e1pu4&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/xoSmI2e1pu4/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;alright nevermind&lt;/p&gt;
+&lt;h2 id=&quot;14-fromis-9-feel-good-secret-code&quot;&gt;14) fromis_9 - Feel Good (Secret Code)&lt;/h2&gt;
+&lt;div id=&quot;jLmJhjCzOTw&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;jLmJhjCzOTw&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/jLmJhjCzOTw/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;Check out fromis_9&#39;s new single &amp;quot;Feel Good (Secret Code)&amp;quot; if you get the chance. Sound of the summer.&lt;/p&gt;
+&lt;h2 id=&quot;13-red-velvet-irene-and-seulgi-naughty&quot;&gt;13) Red Velvet Irene &amp;amp; Seulgi - Naughty&lt;/h2&gt;
+&lt;div id=&quot;PHp3wWbR9cw&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;PHp3wWbR9cw&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/PHp3wWbR9cw/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;insanely competent house, like, you could probably release it to the clubs without the vocals and it&#39;d do just fine&lt;/p&gt;
+&lt;h2 id=&quot;12-elris-no-big-deal&quot;&gt;12) Elris - No Big Deal&lt;/h2&gt;
+&lt;div id=&quot;CdgvQPtiFLo&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;CdgvQPtiFLo&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/CdgvQPtiFLo/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;if you close your eyes, you can see the neon gridlines on this retro synth soundscape, at least until some weird ass sound effects take you out of it&lt;/p&gt;
+&lt;h2 id=&quot;11-rocket-punch-bouncy&quot;&gt;11) Rocket Punch - Bouncy&lt;/h2&gt;
+&lt;div id=&quot;QqggrSpICM0&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;QqggrSpICM0&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/QqggrSpICM0/hqdefault.jpg&#39;);&quot; params=&quot;start=7&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;scene: some music studio. the composers are fucking around with synths, and land on this song&#39;s lead. one turns to the other and says &amp;quot;wow, that synth sounds bouncy.&amp;quot; and the world was never the same&lt;/p&gt;
+&lt;h2 id=&quot;10-stayc-so-bad&quot;&gt;10) STAYC - So Bad&lt;/h2&gt;
+&lt;div id=&quot;gMe1c4UegBY&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;gMe1c4UegBY&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/gMe1c4UegBY/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;this has gone from like 28 to 10 over the past month and there&#39;s a good chance it&#39;d keep climbing if there was another month to go. impossibly pop-glossy drum and bass with a chorus that drills right into your hippocampus&lt;/p&gt;
+&lt;h2 id=&quot;9-golden-child-one-lucid-dream&quot;&gt;9) Golden Child - One (Lucid Dream)&lt;/h2&gt;
+&lt;div id=&quot;l-qyIe-ry7A&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;l-qyIe-ry7A&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/l-qyIe-ry7A/hqdefault.jpg&#39;);&quot; params=&quot;start=3&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;fart bass? funk? Daft Punk? it&#39;s yours, my friend, as long as you have enough attention span&lt;/p&gt;
+&lt;h2 id=&quot;8-april-oops-i-m-sorry&quot;&gt;8) April - Oops I&#39;m Sorry&lt;/h2&gt;
+&lt;div id=&quot;Y-T1Mi1BFRI&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;Y-T1Mi1BFRI&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/Y-T1Mi1BFRI/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;i swear this clown car trap reggae mess is just an incredibly clever re-interpretation of Take On Me, and this type of freakshow ingenuity is what you can&#39;t get anywhere outside of kpop&lt;/p&gt;
+&lt;h2 id=&quot;7-g-i-dle-maybe&quot;&gt;7) (G)I-dle - Maybe&lt;/h2&gt;
+&lt;div id=&quot;k8pEDdNUvzI&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;k8pEDdNUvzI&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/k8pEDdNUvzI/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;total bass envelopment. the combination of epic and plodding gives off the aura of &amp;quot;closing out the set at 3am&amp;quot; as you stumble around, figuring out how much of a friend any nearby walls are&lt;/p&gt;
+&lt;h2 id=&quot;6-gfriend-mago&quot;&gt;6) GFriend - Mago&lt;/h2&gt;
+&lt;div id=&quot;gR4OVNHBEVw&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;gR4OVNHBEVw&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/gR4OVNHBEVw/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;evokes about 5 different italo/hi-nrg/eurobeat songs without really directly pointing at any of them. i went searching for about 2 hours. the closest i could find was D-Essex - Victim Of Love for the pre-chorus&lt;/p&gt;
+&lt;h2 id=&quot;5-jyp-duet-with-sunmi-when-we-disco&quot;&gt;5) JYP duet with Sunmi - When We Disco&lt;/h2&gt;
+&lt;div id=&quot;0Z9Li1g-oUc&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;0Z9Li1g-oUc&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/0Z9Li1g-oUc/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;aside from some filter and pad effects, JYP channels italo without a hint of irony and fuckin kills it. turns out &amp;quot;&amp;quot;half air half sound&amp;quot;&amp;quot; is a dead ringer for italo vocals. and who doesn&#39;t like a good key change?&lt;/p&gt;
+&lt;h2 id=&quot;4-itzy-wannabe&quot;&gt;4) Itzy - Wannabe&lt;/h2&gt;
+&lt;div id=&quot;UUUWIGx3hDE&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;UUUWIGx3hDE&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/UUUWIGx3hDE/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;The Speed Garage Trap Hell Massive returns with a vengeance. this whole year i&#39;ve been cursed with either Yeji&#39;s part at 1:38 or the dance break instrumental barging in whenever my train of thought goes silent for a few seconds&lt;/p&gt;
+&lt;h2 id=&quot;3-wjsn-pantomime&quot;&gt;3) WJSN - Pantomime&lt;/h2&gt;
+&lt;div id=&quot;NeNocuufXiI&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;NeNocuufXiI&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/NeNocuufXiI/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;this song is so fucked up buck wild i have no idea where to begin or end. i don&#39;t even want to spoil it for you by mentioning why it&#39;s so good. imagine getting on splash mountain with no idea you drop. i want you to experience that&lt;/p&gt;
+&lt;h2 id=&quot;2-dreamcatcher-scream&quot;&gt;2) Dreamcatcher - Scream&lt;/h2&gt;
+&lt;div id=&quot;FKlGHHhTOsQ&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;FKlGHHhTOsQ&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/FKlGHHhTOsQ/hqdefault.jpg&#39;);&quot; params=&quot;start=3&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;while we&#39;re on a disney kick, this is the shit Blackbeard uses to boost his pirate zombie army&#39;s morale. monstrously thick guitars and brass, but the real star of the show is the polyrhythm in the chorus&lt;/p&gt;
+&lt;h2 id=&quot;1-yukika-shade&quot;&gt;1) Yukika - Shade&lt;/h2&gt;
+&lt;div id=&quot;rK69AriTIZc&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;rK69AriTIZc&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/rK69AriTIZc/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;it&#39;s so rare that a kpop album sticks to the same concept through its tracks, never mind actually tells a story. Shade is a break-up song that&#39;s the last &amp;quot;real&amp;quot; track of an album where every previous track has been cheery and upbeat. the song itself is an expert global fusion: a little bit new-wave, italo, and city pop. it hits you in the feels so hard that after it is the outro, a 90 second lo-fi track (that still fits in the story!), seemingly there for you to recover yourself in time for the bonus tracks&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank You For Playing&lt;/strong&gt; (PS the whole album is good)&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://pokecapn.github.io/eleventy-base-blog/blog/2020-kpop/qnNF616Hnk-608.webp&quot; alt=&quot;cool album bro but are you using notepad++ to draft your posts???&quot; title=&quot;cool album bro but are you using notepad++ to draft your posts???&quot; width=&quot;608&quot; height=&quot;868&quot;&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>pokecapn&#39;s top 20 kpop of 2019</title>
+    <link href="https://pokecapn.github.io/eleventy-base-blog/blog/2019-kpop/" />
+    <updated>2019-12-31T00:00:00Z</updated>
+    <id>https://pokecapn.github.io/eleventy-base-blog/blog/2019-kpop/</id>
+    <content type="html">&lt;p&gt;&lt;strong&gt;(the rules)&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;only singles with music videos. pokecapns can have little an exception, as a treat.&lt;/li&gt;
+&lt;li&gt;the song must Kick Ass per my exacting standards&lt;/li&gt;
+&lt;li&gt;i put this off until 2 hours ago so i probably forgot stuff and the order&#39;s all wrong&lt;/li&gt;
+&lt;li&gt;hours of sleep&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;previous years&lt;/strong&gt;:
+&lt;a href=&quot;https://pokecapn.github.io/eleventy-base-blog/blog/2017-kpop/&quot;&gt;2017&lt;/a&gt; |
+&lt;a href=&quot;https://pokecapn.github.io/eleventy-base-blog/blog/2018-kpop/&quot;&gt;2018&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;2023 edit&lt;/em&gt;: I have tried to preserve as much of the original tweet thread as possible. Dead links have been fixed, images uploaded(?), formatting tweaked to work with &lt;s&gt;cohost&lt;/s&gt; the blogosphere, but otherwise the order and descriptions are straight from December 31 2019, whatever that entails.&lt;/p&gt;
+&lt;h2 id=&quot;icu-cupid&quot;&gt;??) ICU - Cupid&lt;/h2&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css&quot;&gt;
+&lt;script defer=&quot;defer&quot; src=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js&quot;&gt;&lt;/script&gt;
+&lt;style&gt;.eleventy-plugin-youtube-embed lite-youtube {max-width:100%}&lt;/style&gt;
+&lt;div id=&quot;UNTrvOROv1Q&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;UNTrvOROv1Q&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/UNTrvOROv1Q/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;i can&#39;t in good conscience call this number 20. it&#39;s like someone fed rejected eurodance filler into a cat until it went urp all over the carpet. it&#39;s so jank they pronounce their team name wrong. i love it.&lt;/p&gt;
+&lt;h2 id=&quot;20-nature-oopsie-my-bad&quot;&gt;20) Nature - Oopsie (My Bad)&lt;/h2&gt;
+&lt;div id=&quot;YlxmNv3r-F0&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;YlxmNv3r-F0&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/YlxmNv3r-F0/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;i was really enjoying how dank this song was until someone in the youtube comments said loha&#39;s part 1:31 sounds like &amp;quot;my gun is up your bussy&amp;quot; and now i blame the kids for everything wrong in this world&lt;/p&gt;
+&lt;h2 id=&quot;19-eyedi-and-new&quot;&gt;19) Eyedi - &amp;amp; New&lt;/h2&gt;
+&lt;div id=&quot;zElfR8e1iso&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;zElfR8e1iso&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/zElfR8e1iso/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;you could argue it&#39;s not possible to be &amp;quot;too aesthetic&amp;quot; but i&#39;m going to have to draw the line at deliberately adding wow and flutter. if you can get past that, solid 80s feel&lt;/p&gt;
+&lt;h2 id=&quot;18-dreamcatcher-deja-vu&quot;&gt;18) Dreamcatcher - Deja Vu&lt;/h2&gt;
+&lt;div id=&quot;W761DtH1oRg&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;W761DtH1oRg&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/W761DtH1oRg/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;this song is 30 seconds long with a 3 minute long intro. but it&#39;s a really good intro. the choir chanting bits put it over the edge&lt;/p&gt;
+&lt;h2 id=&quot;17-bewhy-gottasadae&quot;&gt;17) BewhY - Gottasadae&lt;/h2&gt;
+&lt;div id=&quot;ckZor7HRU1E&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;ckZor7HRU1E&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/ckZor7HRU1E/hqdefault.jpg&#39;);&quot; params=&quot;start=29&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;anyone can throw the first half of Yeezus into a blender, but it takes craft to pour out an actual song from the resulting slurry&lt;/p&gt;
+&lt;h2 id=&quot;16-yoyomi-surely&quot;&gt;16) Yoyomi - Surely&lt;/h2&gt;
+&lt;div id=&quot;M_S_P1PQgJM&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;M_S_P1PQgJM&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/M_S_P1PQgJM/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;it&#39;s so nice to see Orange Caramel are putting out songs again. wait, what do you mean i&#39;ve got the script wrong?&lt;/p&gt;
+&lt;h2 id=&quot;15-oneus-valkyrie&quot;&gt;15) Oneus - Valkyrie&lt;/h2&gt;
+&lt;div id=&quot;k6msd9uh8nA&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;k6msd9uh8nA&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/k6msd9uh8nA/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;the guitar riff is here to reassure you and guide you throughout the song. worth pointing out is the housey second verse and the synth and guitar blending together during the choruses&lt;/p&gt;
+&lt;h2 id=&quot;14-everglow-adios&quot;&gt;14) Everglow - Adios&lt;/h2&gt;
+&lt;div id=&quot;tFRcEOmkDM8&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;tFRcEOmkDM8&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/tFRcEOmkDM8/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;Everglow&#39;s sole reason for existence seems to be to try and out-Blackpink Blackpink. they certainly did&lt;/p&gt;
+&lt;h2 id=&quot;13-weki-meki-picky-picky&quot;&gt;13) Weki Meki - Picky Picky&lt;/h2&gt;
+&lt;div id=&quot;tT0Ere4_k6s&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;tT0Ere4_k6s&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/tT0Ere4_k6s/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;check the credits for this song. it took at least 10 people to make a brave brothers sound-alike. but you can&#39;t argue with the results; a fucked up bouncy drum and bass track that dj snake takes a shit on during the chorus. it&#39;s even got the heys&lt;/p&gt;
+&lt;h2 id=&quot;12-aoa-come-see-me&quot;&gt;12) AOA - Come See Me&lt;/h2&gt;
+&lt;div id=&quot;ixxWWKX4S_8&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;ixxWWKX4S_8&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/ixxWWKX4S_8/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;against the odds(?) everything comes together into a catchy little pile with a bit of yee haw added for good measure. this has got even more heys.&lt;/p&gt;
+&lt;h2 id=&quot;11-hong-jinyoung-love-tonight&quot;&gt;11) Hong Jinyoung - Love Tonight&lt;/h2&gt;
+&lt;div id=&quot;5zONW_hyI5A&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;5zONW_hyI5A&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/5zONW_hyI5A/hqdefault.jpg&#39;);&quot; params=&quot;start=1&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;this is just italo in disguise&lt;/p&gt;
+&lt;h2 id=&quot;10-hinapia-drip&quot;&gt;10) Hinapia - Drip&lt;/h2&gt;
+&lt;div id=&quot;K_qrsewuTwo&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;K_qrsewuTwo&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/K_qrsewuTwo/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;scientists have described the sub-bass in this song as &amp;quot;off the charts&amp;quot;. a flower explodes and a skull gets drowned in goo. i guess the synths are firmly in 2008 but that&#39;s fine by me&lt;/p&gt;
+&lt;h2 id=&quot;09-taemin-want&quot;&gt;09) Taemin - Want&lt;/h2&gt;
+&lt;div id=&quot;-OfOkiVFmhM&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;-OfOkiVFmhM&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/-OfOkiVFmhM/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;pure filth. an actual mountain of crud and sludge. disgusting&lt;/p&gt;
+&lt;h2 id=&quot;08-itzy-dalla-dalla&quot;&gt;08) Itzy - Dalla Dalla&lt;/h2&gt;
+&lt;div id=&quot;pNfTK39k55U&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;pNfTK39k55U&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/pNfTK39k55U/hqdefault.jpg&#39;);&quot; params=&quot;start=21&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;The JYP massive descends into Speed Garage Trap Hell and it is glorious&lt;/p&gt;
+&lt;h2 id=&quot;07-clc-me&quot;&gt;07) CLC - Me&lt;/h2&gt;
+&lt;div id=&quot;Btkjr6UNb50&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;Btkjr6UNb50&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/Btkjr6UNb50/hqdefault.jpg&#39;);&quot; params=&quot;start=9&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;are songs still allowed to slap? is that okay? everyone here cool with a little slappening? great. this song slaps. stank nasty brass and hangry rolling bass kicks&lt;/p&gt;
+&lt;h2 id=&quot;06-rocket-punch-bim-bam-bum&quot;&gt;06) Rocket Punch - Bim Bam Bum&lt;/h2&gt;
+&lt;div id=&quot;0306kjwhO-8&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;0306kjwhO-8&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/0306kjwhO-8/hqdefault.jpg&#39;);&quot; params=&quot;start=16&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;i, no shit, fired up stepmania in august to try and make a stepfile of this, before i remembered that i hadn&#39;t done this for 13 years and it was going to be a colossal pain in the ass because i wanted to fill it with every speed and freeze gimmick under the sun&lt;/p&gt;
+&lt;h2 id=&quot;05-saturday-bbyong&quot;&gt;05) Saturday - Bbyong&lt;/h2&gt;
+&lt;div id=&quot;klwQKQTt7UM&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;klwQKQTt7UM&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/klwQKQTt7UM/hqdefault.jpg&#39;);&quot; params=&quot;start=2&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;this is actually a shameless retread of Psy&#39;s New Face, but precision engineered to drill a hole in your brain. thanks&lt;/p&gt;
+&lt;h2 id=&quot;04-apink&quot;&gt;04) Apink - %%&lt;/h2&gt;
+&lt;div id=&quot;499YUeNoYVE&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;499YUeNoYVE&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/499YUeNoYVE/hqdefault.jpg&#39;);&quot; params=&quot;start=11&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;the large genre collider fires again and creates crazed ethereal trance disco breaks&lt;/p&gt;
+&lt;h2 id=&quot;03-clc-no-1-the-whole-ep&quot;&gt;03) CLC - No.1 (the whole EP)&lt;/h2&gt;
+&lt;div id=&quot;ZvhpjERxJlQ&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;ZvhpjERxJlQ&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/ZvhpjERxJlQ/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;div id=&quot;QfhBxZgN8vk&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;QfhBxZgN8vk&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/QfhBxZgN8vk/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;div id=&quot;nMD7CF5bui0&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;nMD7CF5bui0&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/nMD7CF5bui0/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;div id=&quot;33bmPTz9heA&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;33bmPTz9heA&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/33bmPTz9heA/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;div id=&quot;LiKkydPHo7o&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;LiKkydPHo7o&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/LiKkydPHo7o/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;&amp;quot;you can&#39;t put a whole album in a slot&amp;quot; i am much better than other household pets when it comes to the heavy ass kicking content of this EP&lt;/p&gt;
+&lt;h2 id=&quot;02-dia-woowa&quot;&gt;02) DIA - Woowa&lt;/h2&gt;
+&lt;div id=&quot;UnXIPDp9xIM&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;UnXIPDp9xIM&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/UnXIPDp9xIM/hqdefault.jpg&#39;);&quot; params=&quot;start=16&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;i am elementally weak to rave synths and hoovers and the little housey sax thingy noodling away in the right channel during the chorus. this song doesn&#39;t stop. i tried to make a stepfile out of this one too&lt;/p&gt;
+&lt;h2 id=&quot;01-fromis-9-love-rumpumpum&quot;&gt;01) fromis_9 - Love Rumpumpum&lt;/h2&gt;
+&lt;div id=&quot;EGGTNFzEfig&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;EGGTNFzEfig&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/EGGTNFzEfig/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;step 1, find something in the SAW back catalog and update the instruments, but not too much. step 2, say the same thing over and over again in the chorus. step 3, you&#39;re already done, you&#39;ve mined purestrain k-pop&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank You For Playing&lt;/strong&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>pokecapn&#39;s top 20 kpop music video singles of 2018</title>
+    <link href="https://pokecapn.github.io/eleventy-base-blog/blog/2018-kpop/" />
+    <updated>2018-12-31T00:00:00Z</updated>
+    <id>https://pokecapn.github.io/eleventy-base-blog/blog/2018-kpop/</id>
+    <content type="html">&lt;p&gt;ah crap&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://pokecapn.github.io/eleventy-base-blog/blog/2018-kpop/Ja3auv4mU9-608.webp&quot; alt=&quot;its time&quot; title=&quot;its time&quot; width=&quot;608&quot; height=&quot;246&quot;&gt;
+&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://pokecapn.github.io/eleventy-base-blog/blog/2018-kpop/9j5l06w2eH-373.webp&quot; alt=&quot;but i havent done anything yet&quot; title=&quot;but i havent done anything yet&quot; width=&quot;373&quot; height=&quot;120&quot;&gt;&lt;/p&gt;
+&lt;p&gt;see you in an hour or so
+&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://pokecapn.github.io/eleventy-base-blog/blog/2018-kpop/Zj95zDmZnd-608.webp&quot; alt=&quot;time to let mother nature do the talking&quot; title=&quot;time to let mother nature do the talking&quot; width=&quot;608&quot; height=&quot;400&quot;&gt;
+&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://pokecapn.github.io/eleventy-base-blog/blog/2018-kpop/fcdVMrI7tm-500.webp&quot; alt=&quot;strapping in&quot; title=&quot;strapping in&quot; width=&quot;500&quot; height=&quot;344&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;(the rules)&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;only singles with music videos in the interest of &amp;quot;fairness&amp;quot;. rip forever young&lt;/li&gt;
+&lt;li&gt;the song must Kick Ass per my exacting standards&lt;/li&gt;
+&lt;li&gt;ounces of gin&lt;/li&gt;
+&lt;li&gt;this might take a while since we&#39;re doing it live&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;previous years&lt;/strong&gt;:
+&lt;a href=&quot;https://pokecapn.github.io/eleventy-base-blog/blog/2017-kpop/&quot;&gt;2017&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;2022 edit&lt;/em&gt;: I have tried to preserve as much of the original tweet thread as possible. Dead links have been fixed, images uploaded(?), formatting tweaked to work with &lt;s&gt;cohost&lt;/s&gt; the blogosphere, but otherwise the order and descriptions are straight from December 31 2018, whatever that entails.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;20-gugudan-not-that-type&quot;&gt;20) Gugudan - Not That Type&lt;/h2&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css&quot;&gt;
+&lt;script defer=&quot;defer&quot; src=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js&quot;&gt;&lt;/script&gt;
+&lt;style&gt;.eleventy-plugin-youtube-embed lite-youtube {max-width:100%}&lt;/style&gt;
+&lt;div id=&quot;9QTZCB2Ujr8&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;9QTZCB2Ujr8&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/9QTZCB2Ujr8/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;it&#39;s so &amp;quot;normal&amp;quot; compared to their 2017 singles, but there&#39;s a lot to like. you got reggaeton vibes, angry brass, and the aural equivalent of defibrillation at 1:53-1:55. when the ride cymbal hits you instinctively fist pump&lt;/p&gt;
+&lt;h2 id=&quot;19-twice-what-is-love&quot;&gt;19) Twice - What Is Love&lt;/h2&gt;
+&lt;div id=&quot;i0p1bmr0EmE&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;i0p1bmr0EmE&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/i0p1bmr0EmE/hqdefault.jpg&#39;);&quot; params=&quot;start=4&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;big ups to the jyp massive and all of the ridiculous drum fills and half tempo breakdowns. did you ever think dahyun and chaeyoung&#39;s obligatory &amp;quot;rap&amp;quot; break would actually be &lt;em&gt;enjoyable&lt;/em&gt; one day? it&#39;s wild&lt;/p&gt;
+&lt;h2 id=&quot;18-wjsn-save-me-save-you&quot;&gt;18) WJSN - Save Me, Save You&lt;/h2&gt;
+&lt;div id=&quot;2wOBbRu3OOc&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;2wOBbRu3OOc&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/2wOBbRu3OOc/hqdefault.jpg&#39;);&quot; params=&quot;start=7&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;this song is like a good, cushy ride. the executive car suspension of synthesizers. i actually like the melody, with that awesome stutter in the scat, and the verses, with the future bass synths, better than the dreamy chorus&lt;/p&gt;
+&lt;h2 id=&quot;17-dia-woo-woo&quot;&gt;17) DIA - Woo Woo&lt;/h2&gt;
+&lt;div id=&quot;j1OUMTMwVsY&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;j1OUMTMwVsY&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/j1OUMTMwVsY/hqdefault.jpg&#39;);&quot; params=&quot;start=11&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;maybe Shinsadong Tiger ripped off &amp;quot;My Boo&amp;quot; and &amp;quot;Superlove&amp;quot;. just a little bit. okay a lot. but if the results are this good, maybe he should rip off All the Songs. ever think of that? I think of Chaeyeon&#39;s sofa-cover-looking-ass dress&lt;/p&gt;
+&lt;h2 id=&quot;16-in2it-snapshot&quot;&gt;16) IN2IT - SnapShot&lt;/h2&gt;
+&lt;div id=&quot;v91KLr4R5Rw&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;v91KLr4R5Rw&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/v91KLr4R5Rw/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;the synth lead is pure filth and the rest of the song is pure fun. also, years of ddr have rotted my brain into thinking any song with an EKG in it is badass. this is the only boy group song in this list lol&lt;/p&gt;
+&lt;h2 id=&quot;15-uni-t-i-mean&quot;&gt;15) UNI.T - I Mean&lt;/h2&gt;
+&lt;div id=&quot;2bY64rtP0wk&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;2bY64rtP0wk&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/2bY64rtP0wk/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;i&#39;m pretty sure this is the first great song Brave Brothers has made since &amp;quot;Heart Attack&amp;quot; 3 years ago. it&#39;s simple, it&#39;s addictive, it&#39;s got 80s toms, and it&#39;s a shame this group only got 2 singles because &amp;quot;No More&amp;quot; was good too&lt;/p&gt;
+&lt;h2 id=&quot;14-exid-i-love-you&quot;&gt;14) EXID - I Love You&lt;/h2&gt;
+&lt;div id=&quot;SAdmzjsFVQo&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;SAdmzjsFVQo&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/SAdmzjsFVQo/hqdefault.jpg&#39;);&quot; params=&quot;start=6&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;with Solji back, the Natural Order of things has been restored. this song works by riding the knife edge between the shrill samples/chorus and the mega bass 2000 watt rms lurking underneath. have you hugged a subwoofer today?&lt;/p&gt;
+&lt;h2 id=&quot;13-blackpink-ddu-du-ddu-du&quot;&gt;13) Blackpink - Ddu-du Ddu-du&lt;/h2&gt;
+&lt;div id=&quot;IHNzOHi8sJs&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;IHNzOHi8sJs&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/IHNzOHi8sJs/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;this goes harder than just about anything else in 2018. i glued myself to a wall when this came on at a kpop night to make sure i felt the pounding pounding pounding bass kicks. rosé&#39;s part onwards is just short of magical&lt;/p&gt;
+&lt;h2 id=&quot;12-april-oh-my-mistake&quot;&gt;12) April - Oh! My Mistake&lt;/h2&gt;
+&lt;div id=&quot;D2MhwXZ8IgM&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;D2MhwXZ8IgM&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/D2MhwXZ8IgM/hqdefault.jpg&#39;);&quot; params=&quot;start=9&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;speaking of magical, this song is like filling a fish tank with 80s and dunking your head in it. the breakdown at 1:28 has this otherworldly sparseness to it that amps up how &amp;quot;fresh&amp;quot; this song sounds. sawtooths&lt;/p&gt;
+&lt;h2 id=&quot;11-pristin-v-get-it&quot;&gt;11) Pristin V - Get It&lt;/h2&gt;
+&lt;div id=&quot;4CTGxKIzD7M&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;4CTGxKIzD7M&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/4CTGxKIzD7M/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;okay take &amp;quot;all hands on deck&amp;quot; and &amp;quot;classic man&amp;quot;, smash them together, and then make all the numbers go way higher, and you get this banger. nayoung is in handcuffs for about 45 frames in this mv. you&#39;re welcome&lt;/p&gt;
+&lt;h2 id=&quot;10-momoland-baam&quot;&gt;10) Momoland - Baam&lt;/h2&gt;
+&lt;div id=&quot;txWmd7QKFe8&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;txWmd7QKFe8&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/txWmd7QKFe8/hqdefault.jpg&#39;);&quot; params=&quot;start=5&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;it&#39;s kind of amazing that &lt;a href=&quot;https://www.youtube.com/watch?v=iM1l8LtwJLY&quot;&gt;a joke track on EXID&#39;s first album&lt;/a&gt; had enough meat to fuel two great songs, but &amp;quot;baam&amp;quot; gets the nod for bringing higher energy and feeling more like 2012 t-ara. this song will pump &lt;em&gt;(clap)&lt;/em&gt; you up&lt;/p&gt;
+&lt;h2 id=&quot;9-loona-hi-high&quot;&gt;9) Loona - Hi High&lt;/h2&gt;
+&lt;div id=&quot;846cjX0ZTrk&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;846cjX0ZTrk&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/846cjX0ZTrk/hqdefault.jpg&#39;);&quot; params=&quot;start=4&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;basically a 2018 remix of &amp;quot;gee&amp;quot;, and does it way, way better than e-tribe&#39;s own attempt, 3 months prior, with the &lt;em&gt;same&lt;/em&gt; group. H and I come after G, so this song was actually foretold by the alphabet. i can write loonaverse lore too!&lt;/p&gt;
+&lt;h2 id=&quot;8-sunmi-siren&quot;&gt;8) Sunmi - Siren&lt;/h2&gt;
+&lt;div id=&quot;TNWMZIf7eSg&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;TNWMZIf7eSg&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/TNWMZIf7eSg/hqdefault.jpg&#39;);&quot; params=&quot;start=16&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;it&#39;s italo. that&#39;s all you need to know, click it already. pity about the dance break completely interrupting the vibe. i desperately want to hear the rest of the original 2016 version because it amps up the SAW like twentyfold&lt;/p&gt;
+&lt;h2 id=&quot;7-oh-my-girl-secret-garden&quot;&gt;7) Oh My Girl - Secret Garden&lt;/h2&gt;
+&lt;div id=&quot;Lznx5A7fNto&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;Lznx5A7fNto&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/Lznx5A7fNto/hqdefault.jpg&#39;);&quot; params=&quot;start=13&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;it&#39;s no &amp;quot;closer&amp;quot;, but it tries its very best. the thunder on the kicks is pulled back in favor of doubling up on them, which i can&#39;t decide if i like better or not. bathe yourself in dream synth.&lt;/p&gt;
+&lt;h2 id=&quot;6-fanatics-flavor-milkshake&quot;&gt;6) Fanatics-Flavor - Milkshake&lt;/h2&gt;
+&lt;div id=&quot;lSIx8K_NMsk&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;lSIx8K_NMsk&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/lSIx8K_NMsk/hqdefault.jpg&#39;);&quot; params=&quot;start=9&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;someone plays salt-n-pepa&#39;s &amp;quot;push it&amp;quot; for an alien, hands them a copy of fruityloops, and says &amp;quot;make the next song&amp;quot;. this is the result. a pistol cocks at the very beginning of this and is never heard again. i love it&lt;/p&gt;
+&lt;h2 id=&quot;5-fromis-9-love-bomb&quot;&gt;5) fromis_9 - Love Bomb&lt;/h2&gt;
+&lt;div id=&quot;-SK6cvkK4c0&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;-SK6cvkK4c0&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/-SK6cvkK4c0/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;whoever made this song was never told &amp;quot;no&amp;quot; during any point of the process, and that&#39;s why it&#39;s so great. there is so much shit going on at once. futurebass, a detour to chicago, gabber clap triplets. it&#39;s all here. for you.&lt;/p&gt;
+&lt;h2 id=&quot;4-chungha-roller-coaster&quot;&gt;4) Chungha - Roller Coaster&lt;/h2&gt;
+&lt;div id=&quot;900X9fDFLc4&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;900X9fDFLc4&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/900X9fDFLc4/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;slick 2-step gives way to euro-fueled 4 on the floor, all backed by the dankest FM synth bass this side of 1994. i think this and the rest of the list could be number 1 on any given day for me&lt;/p&gt;
+&lt;h2 id=&quot;3-clc-black-dress&quot;&gt;3) CLC - Black Dress&lt;/h2&gt;
+&lt;div id=&quot;hF6Wds75rjg&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;hF6Wds75rjg&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/hF6Wds75rjg/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;not only does this song slap all the way through, at 2:51 the pryda snare goes off and it &lt;em&gt;happens&lt;/em&gt;. that moment is known to some as The Slappening of 2018.&lt;/p&gt;
+&lt;h2 id=&quot;2-apink-i-m-so-sick&quot;&gt;2) Apink - I&#39;m So Sick&lt;/h2&gt;
+&lt;div id=&quot;F4oHuML9U2A&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;F4oHuML9U2A&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/F4oHuML9U2A/hqdefault.jpg&#39;);&quot; params=&quot;start=12&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;black eyed pilseung fire the large genre collider. the mini-black hole swallows space for a few femtoseconds before collapsing, emitting tropical melancholic italo. scientists furrow their brows before standing up and clapping&lt;/p&gt;
+&lt;h2 id=&quot;1-loona-olivia-hye-feat-jinsoul-egoist&quot;&gt;1) Loona / Olivia Hye feat. Jinsoul - Egoist&lt;/h2&gt;
+&lt;div id=&quot;UkY8HvgvBJ8&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;UkY8HvgvBJ8&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/UkY8HvgvBJ8/hqdefault.jpg&#39;);&quot; params=&quot;start=4&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;an otherworldly journey through sound and spacetime. i&#39;ve probably listened to this hundreds of times this year, and each time i just sort of wander off mentally so i can be swallowed up by the aural ocean&lt;/p&gt;
+&lt;h2 id=&quot;0-elris-summer-dream&quot;&gt;0) Elris - Summer Dream&lt;/h2&gt;
+&lt;div id=&quot;tpLro7n3PWo&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;tpLro7n3PWo&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/tpLro7n3PWo/hqdefault.jpg&#39;);&quot; params=&quot;start=5&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;my shitty cybertruck with peeling delorean stickers comes screaming in from the future into 2018. &amp;quot;HEY MAN YOU NEED TO PUT SUMMER DREAM AT THE TOP OF YOUR LIST&amp;quot; the bumper falls off and crushes some stupid butterfly that&#39;s nowhere near as important as spreading the good word about Summer Dream&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank You For Playing&lt;/strong&gt;&lt;/p&gt;
+</content>
+  </entry>
+</feed>
