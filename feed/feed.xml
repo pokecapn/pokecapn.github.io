@@ -2,19 +2,19 @@
 <?xml-stylesheet href="pretty-atom-feed.xsl" type="text/xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>Posting Hole</title>
-  <subtitle>welcome to my humble site</subtitle>
-  <link href="https://pokecapn.github.io/feed/feed.xml" rel="self" />
-  <link href="https://pokecapn.github.io/" />
+  <subtitle>pokecapn&#39;s posting hole for blogospherers custom</subtitle>
+  <link href="https://chambraigne.com/feed/feed.xml" rel="self" />
+  <link href="https://chambraigne.com/" />
   <updated>2024-11-03T00:00:00Z</updated>
-  <id>https://pokecapn.github.io/</id>
+  <id>https://chambraigne.com/</id>
   <author>
     <name>pokecapn</name>
   </author>
   <entry>
     <title>empty kpop sets make for insane liminal spaces</title>
-    <link href="https://pokecapn.github.io/blog/liminal-kpop-sets/" />
+    <link href="https://chambraigne.com/blog/liminal-kpop-sets/" />
     <updated>2024-11-03T00:00:00Z</updated>
-    <id>https://pokecapn.github.io/blog/liminal-kpop-sets/</id>
+    <id>https://chambraigne.com/blog/liminal-kpop-sets/</id>
     <content type="html">&lt;p&gt;so every morning I head over to &lt;a href=&quot;https://reddit.com/r/liminalspace&quot;&gt;r/liminalspace&lt;/a&gt; and pick my new Zoom background for the day. this serves as a nice mini-ritual to start work and makes meetings ever so slightly more fun. I&#39;ve been doing this, although not always with that subreddit, for something like 5 and a half years at this point. that is a &lt;em&gt;lot&lt;/em&gt; of &amp;quot;liminal spaces&amp;quot; i&#39;ve exposed myself to.&lt;/p&gt;
 &lt;p&gt;there is much argument over what is and isn&#39;t a liminal space, but since I just find it really funny that people experience spiritual levels of emotion to a picture of an empty hotel lobby with the elevator open, I&#39;m don&#39;t really sweat the details. I think as long as you get the sense that you&#39;re alone, and either moving from point A to point B or taking a pit stop somewhere uselessly detached from society, that&#39;s a liminal space.&lt;/p&gt;
 &lt;p&gt;all of which leads me to a brilliant brainstorm I had in the middle of the night in 2021, when I was re-watching &lt;a href=&quot;https://www.youtube.com/watch?v=4CTGxKIzD7M&quot;&gt;Pristin V&#39;s Get It&lt;/a&gt; (as you do) and there was this second-long shot of an empty room with a nonsense hexagonal couch, fluorescent lighting, and a bunch of mirrors going nowhere. that&#39;s when I realized that in the quest for hyper-stimulating visuals, kpop music videos end up churning out insane liminal spaces as set pieces. normally you don&#39;t pick up on it because &lt;em&gt;someone&lt;/em&gt; is almost always there &lt;em&gt;on the set&lt;/em&gt;, interrupting the liminality, but I cracked the code.&lt;/p&gt;
@@ -25,9 +25,9 @@
   </entry>
   <entry>
     <title>pokecapn&#39;s top 30+ kpop of 2022</title>
-    <link href="https://pokecapn.github.io/blog/2022-kpop/" />
+    <link href="https://chambraigne.com/blog/2022-kpop/" />
     <updated>2023-11-29T00:00:00Z</updated>
-    <id>https://pokecapn.github.io/blog/2022-kpop/</id>
+    <id>https://chambraigne.com/blog/2022-kpop/</id>
     <content type="html">&lt;p&gt;&lt;strong&gt;(the rules)&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;i listened to over 1500 songs, to bring you&lt;/li&gt;
@@ -36,11 +36,11 @@
 &lt;li&gt;original air date: November 29, 2023&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;previous years&lt;/strong&gt;:
-&lt;a href=&quot;https://pokecapn.github.io/blog/2017-kpop/&quot;&gt;2017&lt;/a&gt; |
-&lt;a href=&quot;https://pokecapn.github.io/blog/2018-kpop/&quot;&gt;2018&lt;/a&gt; |
-&lt;a href=&quot;https://pokecapn.github.io/blog/2019-kpop/&quot;&gt;2019&lt;/a&gt; |
-&lt;a href=&quot;https://pokecapn.github.io/blog/2020-kpop/&quot;&gt;2020&lt;/a&gt; |
-&lt;a href=&quot;https://pokecapn.github.io/blog/2021-kpop/&quot;&gt;2021&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://chambraigne.com/blog/2017-kpop/&quot;&gt;2017&lt;/a&gt; |
+&lt;a href=&quot;https://chambraigne.com/blog/2018-kpop/&quot;&gt;2018&lt;/a&gt; |
+&lt;a href=&quot;https://chambraigne.com/blog/2019-kpop/&quot;&gt;2019&lt;/a&gt; |
+&lt;a href=&quot;https://chambraigne.com/blog/2020-kpop/&quot;&gt;2020&lt;/a&gt; |
+&lt;a href=&quot;https://chambraigne.com/blog/2021-kpop/&quot;&gt;2021&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&quot;awards&quot;&gt;awards&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;The Best Cover(?) Award&lt;/strong&gt;: Funtwo, Jane, AZ - aespa - Next Level (Guitar Cover)&lt;/p&gt;
@@ -151,7 +151,7 @@
 &lt;h2 id=&quot;3-wjsn-chocome-super-yuppers&quot;&gt;3) WJSN Chocome - Super Yuppers!&lt;/h2&gt;
 &lt;div id=&quot;oxfj1jCfF9E&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;oxfj1jCfF9E&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/oxfj1jCfF9E/hqdefault.jpg&#39;);&quot; params=&quot;start=4&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
 &lt;p&gt;the song: the 80s are here, again.
-&lt;span style=&quot;display:block&quot;&gt;me:&lt;/span&gt; &lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://pokecapn.github.io/blog/2022-kpop/AZEFTqX-gC-608.webp&quot; alt=&quot;jojo yes yes yes&quot; width=&quot;608&quot; height=&quot;342&quot;&gt;&lt;/p&gt;
+&lt;span style=&quot;display:block&quot;&gt;me:&lt;/span&gt; &lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://chambraigne.com/blog/2022-kpop/AZEFTqX-gC-608.webp&quot; alt=&quot;jojo yes yes yes&quot; width=&quot;608&quot; height=&quot;342&quot;&gt;&lt;/p&gt;
 &lt;h2 id=&quot;2-cherry-bullet-love-in-space&quot;&gt;2) Cherry Bullet - Love In Space&lt;/h2&gt;
 &lt;div id=&quot;85HOPAnY49U&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;85HOPAnY49U&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/85HOPAnY49U/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
 &lt;p&gt;what&#39;s 156 bpm, is dominated by offbeat bass stabs, and features 16th note melodies? that&#39;s right, they&#39;ve finally discovered the secret formula to poppify eurobeat&lt;/p&gt;
@@ -165,9 +165,9 @@
   </entry>
   <entry>
     <title>pokecapn&#39;s top 30+ kpop of 2021</title>
-    <link href="https://pokecapn.github.io/blog/2021-kpop/" />
+    <link href="https://chambraigne.com/blog/2021-kpop/" />
     <updated>2022-07-23T00:00:00Z</updated>
-    <id>https://pokecapn.github.io/blog/2021-kpop/</id>
+    <id>https://chambraigne.com/blog/2021-kpop/</id>
     <content type="html">&lt;p&gt;&lt;strong&gt;(the rules)&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;all tracks are fair game, i listened to.. a lot&lt;/li&gt;
@@ -177,10 +177,10 @@
 &lt;li&gt;actually it&#39;s Remote Mines&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;previous years&lt;/strong&gt;:
-&lt;a href=&quot;https://pokecapn.github.io/blog/2017-kpop/&quot;&gt;2017&lt;/a&gt; |
-&lt;a href=&quot;https://pokecapn.github.io/blog/2018-kpop/&quot;&gt;2018&lt;/a&gt; |
-&lt;a href=&quot;https://pokecapn.github.io/blog/2019-kpop/&quot;&gt;2019&lt;/a&gt; |
-&lt;a href=&quot;https://pokecapn.github.io/blog/2020-kpop/&quot;&gt;2020&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://chambraigne.com/blog/2017-kpop/&quot;&gt;2017&lt;/a&gt; |
+&lt;a href=&quot;https://chambraigne.com/blog/2018-kpop/&quot;&gt;2018&lt;/a&gt; |
+&lt;a href=&quot;https://chambraigne.com/blog/2019-kpop/&quot;&gt;2019&lt;/a&gt; |
+&lt;a href=&quot;https://chambraigne.com/blog/2020-kpop/&quot;&gt;2020&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;2023 edit&lt;/em&gt;: I have tried to preserve as much of the original tweet thread as possible. Dead links have been fixed, formatting tweaked to work with &lt;s&gt;cohost&lt;/s&gt; the blogosphere, but otherwise the order and descriptions are straight from July 23 2022, whatever that entails.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&quot;awards&quot;&gt;awards&lt;/h3&gt;
@@ -299,9 +299,9 @@
   </entry>
   <entry>
     <title>pokecapn&#39;s top 30ish kpop of 2020</title>
-    <link href="https://pokecapn.github.io/blog/2020-kpop/" />
+    <link href="https://chambraigne.com/blog/2020-kpop/" />
     <updated>2020-12-30T00:00:00Z</updated>
-    <id>https://pokecapn.github.io/blog/2020-kpop/</id>
+    <id>https://chambraigne.com/blog/2020-kpop/</id>
     <content type="html">&lt;p&gt;&lt;strong&gt;(the rules)&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;anything goes. i listened to... maybe 1500 tracks to bring you these fine goods. over 460 &amp;quot;above the mendoza line&amp;quot;&lt;/li&gt;
@@ -309,9 +309,9 @@
 &lt;li&gt;but first, some awards for songs that didn&#39;t make it!&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;previous years&lt;/strong&gt;:
-&lt;a href=&quot;https://pokecapn.github.io/blog/2017-kpop/&quot;&gt;2017&lt;/a&gt; |
-&lt;a href=&quot;https://pokecapn.github.io/blog/2018-kpop/&quot;&gt;2018&lt;/a&gt; |
-&lt;a href=&quot;https://pokecapn.github.io/blog/2019-kpop/&quot;&gt;2019&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://chambraigne.com/blog/2017-kpop/&quot;&gt;2017&lt;/a&gt; |
+&lt;a href=&quot;https://chambraigne.com/blog/2018-kpop/&quot;&gt;2018&lt;/a&gt; |
+&lt;a href=&quot;https://chambraigne.com/blog/2019-kpop/&quot;&gt;2019&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;2023 edit&lt;/em&gt;: I have tried to preserve as much of the original tweet thread as possible. Dead links have been fixed, images uploaded, formatting tweaked to work with &lt;s&gt;cohost&lt;/s&gt; the blogosphere, but otherwise the order and descriptions are straight from December 31 2020, whatever that entails.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&quot;awards&quot;&gt;awards&lt;/h3&gt;
@@ -433,14 +433,14 @@
 &lt;div id=&quot;rK69AriTIZc&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;rK69AriTIZc&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/rK69AriTIZc/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
 &lt;p&gt;it&#39;s so rare that a kpop album sticks to the same concept through its tracks, never mind actually tells a story. Shade is a break-up song that&#39;s the last &amp;quot;real&amp;quot; track of an album where every previous track has been cheery and upbeat. the song itself is an expert global fusion: a little bit new-wave, italo, and city pop. it hits you in the feels so hard that after it is the outro, a 90 second lo-fi track (that still fits in the story!), seemingly there for you to recover yourself in time for the bonus tracks&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Thank You For Playing&lt;/strong&gt; (PS the whole album is good)&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://pokecapn.github.io/blog/2020-kpop/qnNF616Hnk-608.webp&quot; alt=&quot;cool album bro but are you using notepad++ to draft your posts???&quot; title=&quot;cool album bro but are you using notepad++ to draft your posts???&quot; width=&quot;608&quot; height=&quot;868&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://chambraigne.com/blog/2020-kpop/qnNF616Hnk-608.webp&quot; alt=&quot;cool album bro but are you using notepad++ to draft your posts???&quot; title=&quot;cool album bro but are you using notepad++ to draft your posts???&quot; width=&quot;608&quot; height=&quot;868&quot;&gt;&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>pokecapn&#39;s top 20 kpop of 2019</title>
-    <link href="https://pokecapn.github.io/blog/2019-kpop/" />
+    <link href="https://chambraigne.com/blog/2019-kpop/" />
     <updated>2019-12-31T00:00:00Z</updated>
-    <id>https://pokecapn.github.io/blog/2019-kpop/</id>
+    <id>https://chambraigne.com/blog/2019-kpop/</id>
     <content type="html">&lt;p&gt;&lt;strong&gt;(the rules)&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;only singles with music videos. pokecapns can have little an exception, as a treat.&lt;/li&gt;
@@ -449,8 +449,8 @@
 &lt;li&gt;hours of sleep&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;previous years&lt;/strong&gt;:
-&lt;a href=&quot;https://pokecapn.github.io/blog/2017-kpop/&quot;&gt;2017&lt;/a&gt; |
-&lt;a href=&quot;https://pokecapn.github.io/blog/2018-kpop/&quot;&gt;2018&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://chambraigne.com/blog/2017-kpop/&quot;&gt;2017&lt;/a&gt; |
+&lt;a href=&quot;https://chambraigne.com/blog/2018-kpop/&quot;&gt;2018&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;2023 edit&lt;/em&gt;: I have tried to preserve as much of the original tweet thread as possible. Dead links have been fixed, images uploaded(?), formatting tweaked to work with &lt;s&gt;cohost&lt;/s&gt; the blogosphere, but otherwise the order and descriptions are straight from December 31 2019, whatever that entails.&lt;/p&gt;
 &lt;h2 id=&quot;icu-cupid&quot;&gt;??) ICU - Cupid&lt;/h2&gt;
 &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css&quot;&gt;
